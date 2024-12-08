@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "openai": "^4.76.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.17.0",
+    "@typescript-eslint/parser": "^8.17.0",
+    "eslint": "^9.16.0",
+    "eslint-plugin-tailwindcss": "^3.17.5"
+  }
+}
